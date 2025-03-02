@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fakta-berita.github.io/top-pages/sitemap.xml
